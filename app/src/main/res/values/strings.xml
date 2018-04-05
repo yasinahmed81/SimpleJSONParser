@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple JSON Parser</string>
+    <string name="fetch_json_data">Fetch JSON Data</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="surgeryImageIcon">surgeryImageIcon</string>
+    <string name="procedure_name">Procedure name</string>
+    <string name="surgeryImage">surgeryImage</string>
+</resources>
